@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <limits.h>
 #include <strings.h>
+#include <sched.h>
 
 #include "bsd_queue.h"
 #include "atomic_defs.h"
